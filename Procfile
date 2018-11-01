@@ -1,0 +1,1 @@
+worker: python wikipedia_boy.py
